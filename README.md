@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, GUI, MYSQL... or anything [here](https://github.com/RajdeepSol/RajdeepSol/issues)**
 
-⚡ Fun fact **Lego mini-figures have the largest population on Earth! **
+⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
  </div>
  
