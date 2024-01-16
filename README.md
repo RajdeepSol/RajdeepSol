@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/RajdeepSol/RajdeepSol/issues)**
+💬 Ask me about **Python, GUI, MYSQL... or anything [here](https://github.com/RajdeepSol/RajdeepSol/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
