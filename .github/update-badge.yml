@@ -16,6 +16,6 @@ jobs:
         run: |
           sed -i 's|!\[Microsoft Training Badge\](.*)|![Microsoft Training Badge](https://learn.microsoft.com/api/achievements/share/en-us/RajdeepSolanki-8258/J67J8MWT?sharingId=5728ACF64A07B48D)|g' README.md
           git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.name "RajdeepSol"
           git commit -am "Update Microsoft Training Badge"
           git push
