@@ -33,6 +33,14 @@
 </div>
 
  <hr/>
+ <h2 align="center">Trainings And Certifications</h2>
+ <br/>
+ <div align="center"> 
+ 
+ \![Microsoft Training Badge](https://learn.microsoft.com/api/achievements/share/en-us/RajdeepSolanki-8258/J67J8MWT?sharingId=5728ACF64A07B48D)
+
+
+ </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
