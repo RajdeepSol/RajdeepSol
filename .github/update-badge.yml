@@ -1,0 +1,21 @@
+name: Update Badge
+
+on:
+  push:
+    branches:
+      - main  # Change this to your main branch name if different
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Badge
+        run: |
+          sed -i 's|!\[Microsoft Training Badge\](.*)|![Microsoft Training Badge](https://learn.microsoft.com/api/achievements/share/en-us/RajdeepSolanki-8258/J67J8MWT?sharingId=5728ACF64A07B48D)|g' README.md
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git commit -am "Update Microsoft Training Badge"
+          git push
