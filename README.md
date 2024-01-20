@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** Python GUI**
+ 🔭 I’m currently working on ** Python Projects**
  
  🌱 I’m currently learning **AWS**
 
-💬 Ask me about **Python, GUI, MYSQL... or anything [here](https://github.com/RajdeepSol/RajdeepSol/issues)**
+💬 Ask me about **... anything [here](https://github.com/RajdeepSol/RajdeepSol/issues)**
 
 ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
