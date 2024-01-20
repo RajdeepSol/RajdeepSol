@@ -22,7 +22,7 @@
  
 <div align="center"> 
   <a href="mailto:solankirajdeep1405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://learn.microsoft.com/api/achievements/share/en-us/RajdeepSolanki-8258/K5RX696B?sharingId=5728ACF64A07B48D" />
   </a>
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
